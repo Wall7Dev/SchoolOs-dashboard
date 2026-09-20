@@ -1,0 +1,6 @@
+{
+  "name": "Fitup - Cycling & Athletic Performance Dashboard",
+  "description": "High-fidelity athletic performance and biometric telemetry dashboard replicating the Fitup cycling interface with real-time health metrics, interactive GPS route tracking, and glassmorphic cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
